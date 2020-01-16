@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="550b7bcb-8733-4a1e-8ab3-a2046513c5d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chess/engine/Alliance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chess/engine/board/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chess/engine/board/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chess/engine/board/BoardUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/board/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/board/Tile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/pieces/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/pieces/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Knight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +42,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="com.chess.engine.board.BoardUtils" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -69,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578680302343</updated>
       <workItem from="1578680306432" duration="3579000" />
-      <workItem from="1579029441692" duration="3175000" />
+      <workItem from="1579029441692" duration="7514000" />
     </task>
     <servers />
   </component>
@@ -82,6 +83,10 @@
     </state>
     <state x="531" y="139" key="#com.intellij.ide.util.MemberChooser/0.23.1440.798@0.23.1440.798" timestamp="1578681279928" />
     <state x="531" y="139" key="#com.intellij.ide.util.MemberChooser/0.23.1440.801@0.23.1440.801" timestamp="1579030959710" />
+    <state x="433" y="143" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1579202286954">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="433" y="143" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.23.1440.806@0.23.1440.806" timestamp="1579202286954" />
     <state x="456" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579032221263">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
@@ -95,6 +100,10 @@
     </state>
     <state x="374" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.798@0.23.1440.798" timestamp="1578680307796" />
     <state x="374" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1579029457157" />
+    <state x="424" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1579204786251">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="424" y="41" key="refactoring.ChangeSignatureDialog/0.23.1440.804@0.23.1440.804" timestamp="1579204786251" />
     <state x="383" y="145" width="670" height="679" key="search.everywhere.popup" timestamp="1579029960343">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
