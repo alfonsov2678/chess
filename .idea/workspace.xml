@@ -3,8 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="550b7bcb-8733-4a1e-8ab3-a2046513c5d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/Alliance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/Alliance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/board/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/board/Board.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/chess/engine/board/BoardUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/board/BoardUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/chess/engine/board/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/board/Move.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/board/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/board/Tile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/pieces/Bishop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Bishop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/pieces/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/pieces/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Knight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/pieces/Pawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Pawn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/pieces/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/pieces/Queen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Queen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chess/engine/pieces/Rook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Rook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +80,9 @@
       <option name="presentableId" value="Default" />
       <updated>1578680302343</updated>
       <workItem from="1578680306432" duration="3579000" />
-      <workItem from="1579029441692" duration="10420000" />
+      <workItem from="1579029441692" duration="10735000" />
+      <workItem from="1580184896132" duration="1388000" />
+      <workItem from="1581815930017" duration="513000" />
     </task>
     <servers />
   </component>
@@ -78,11 +90,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="531" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1579030959710">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state x="531" y="140" key="#com.intellij.ide.util.MemberChooser" timestamp="1583821442057">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="531" y="139" key="#com.intellij.ide.util.MemberChooser/0.23.1440.798@0.23.1440.798" timestamp="1578681279928" />
     <state x="531" y="139" key="#com.intellij.ide.util.MemberChooser/0.23.1440.801@0.23.1440.801" timestamp="1579030959710" />
+    <state x="531" y="140" key="#com.intellij.ide.util.MemberChooser/0.23.1440.806@0.23.1440.806" timestamp="1583734663549" />
+    <state x="531" y="140" key="#com.intellij.ide.util.MemberChooser/0.23.1440.808@0.23.1440.808" timestamp="1583821442057" />
     <state x="433" y="143" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1579202286954">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
@@ -95,19 +109,25 @@
       <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state x="206" y="23" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1578682742681" />
-    <state x="374" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1579029457157">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state x="374" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1583176621506">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="374" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.798@0.23.1440.798" timestamp="1578680307796" />
     <state x="374" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1579029457157" />
+    <state x="374" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1583176621506" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1583734111594">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.806@0.23.1440.806" timestamp="1583734111594" />
     <state x="424" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1579204786251">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="424" y="41" key="refactoring.ChangeSignatureDialog/0.23.1440.804@0.23.1440.804" timestamp="1579204786251" />
-    <state x="383" y="145" width="670" height="679" key="search.everywhere.popup" timestamp="1579029960343">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state x="383" y="146" width="670" height="684" key="search.everywhere.popup" timestamp="1583734105196">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="383" y="145" width="670" height="676" key="search.everywhere.popup/0.23.1440.798@0.23.1440.798" timestamp="1578682716239" />
     <state x="383" y="145" width="670" height="679" key="search.everywhere.popup/0.23.1440.801@0.23.1440.801" timestamp="1579029960343" />
+    <state x="383" y="146" width="670" height="684" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1583734105196" />
   </component>
 </project>
